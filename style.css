@@ -1,0 +1,47 @@
+
+
+
+.product-item{
+border: 1px solid rgb(226, 226, 226);
+border-radius: 6px;
+overflow:hidden;
+padding:0 10px 10px 10px;
+
+}
+
+.product-image{
+    width:100%; 
+    padding-bottom: 20px;
+}
+.product-title{
+    font-weight: 600;
+    font-size: 20px;
+
+    
+}
+.product-price{
+    color: rgb(4, 141, 66);
+    
+}
+.line{
+    line-height: 80%;
+}
+footer{
+    padding: 20px;
+    text-align: center;
+}
+h1{
+margin-left: 60px;
+}
+button{
+    margin-left: 5px;
+}
+.navbar{
+    position: fixed;
+    top:0;
+    width: 100%;
+    z-index: 1030;
+}
+button{
+    padding: 50px;
+}
